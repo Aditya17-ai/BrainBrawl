@@ -33,3 +33,15 @@ Node.js with Express.js
 MongoDB for database management
 
 Socket.io for real-time events
+
+
+
+🎯 Future Enhancements
+
+Leaderboard system 🏆
+
+Custom quiz categories 🏅
+
+In-game chat 💬
+
+Mobile-friendly PWA 📱
