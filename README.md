@@ -4,6 +4,9 @@ BrainBrawl - Multiplayer Quiz Game
 
 BrainBrawl is a real-time multiplayer quiz game where players can join rooms, compete in answering questions, and track their scores dynamically. It supports authentication, real-time gameplay using Socket.io, and a seamless UI for an engaging quiz experience.
 
+
+
+
 🚀 Features
 
 Real-time multiplayer quiz using WebSockets
@@ -15,6 +18,12 @@ Live score updates during the quiz
 Automatic question progression (Moves to the next question upon correct answer)
 
 Modern UI/UX with responsive design
+
+
+
+
+
+
 
 🛠️ Tech Stack
 
@@ -33,6 +42,19 @@ Node.js with Express.js
 MongoDB for database management
 
 Socket.io for real-time events
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
